@@ -1,0 +1,41 @@
+body {
+    background: #94d4d8;
+    background-size: auto 100vh;
+    font-family: Verdana;
+  }
+  
+  .menu {
+    background-color: #2a9c94;  
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: #3d4544;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .site-title{
+    text-align: center;
+    color: #2a2b2b;
+  }
+  
+  .site-subtitle {
+    color: #6c8c8a;
+    font-style: italic;
+    text-align: right; 
+  }
+  
+  
